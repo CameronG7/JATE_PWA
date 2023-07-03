@@ -23,6 +23,7 @@ If you decline, simply reload the page to enable the functionality again.
 [app link](https://salty-temple-36941-0e4bb5ef543d.herokuapp.com/)
 
 When you type in the text editor the text is saved to local storage, then when the editor loses focus the text is saved to the IndexedDB.
+To properly cache the page, refresh after the initial load.
 
 
 ## Credits
