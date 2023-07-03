@@ -21,6 +21,7 @@ If you decline, simply reload the page to enable the functionality again.
 ![image](https://github.com/CameronG7/JATE_PWA/assets/122698132/89660f17-93da-4f7d-aed5-a0fdb8876936)
 
 [app link](https://salty-temple-36941-0e4bb5ef543d.herokuapp.com/)
+
 When you type in the text editor the text is saved to local storage, then when the editor loses focus the text is saved to the IndexedDB.
 
 
