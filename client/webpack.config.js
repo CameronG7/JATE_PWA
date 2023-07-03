@@ -39,7 +39,7 @@ module.exports = () => {
         icons: [
           {
             src: "./src/images/logo.png",
-            sizes: [16, 48, 96, 128, 192, 256, 384, 512],
+            sizes: [16, 48, 96, 128, 192, 256],
             destination: path.join("assets", "icons"),
             type: "image/png",
           },
